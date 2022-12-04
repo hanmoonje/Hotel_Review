@@ -48,7 +48,7 @@
 
 ## Result
 - 전체 호텔 리뷰의 Trend 
-(label별 순위)
+(label별 순위)   
  1위 청결
 
  2위 시설
